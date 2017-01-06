@@ -1,6 +1,6 @@
 Name     : jdk-plexus-components
 Version  : 1.3.1
-Release  : 1
+Release  : 2
 URL      : http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3.1/plexus-components-1.3.1.pom
 Source0  : http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3.1/plexus-components-1.3.1.pom
 Summary  : No detailed summary available
